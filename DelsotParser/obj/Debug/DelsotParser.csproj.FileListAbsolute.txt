@@ -1,0 +1,13 @@
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\DelsotParser.exe.config
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\DelsotParser.exe
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\DelsotParser.pdb
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\obj\Debug\DelsotParser.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\obj\Debug\DelsotParser.csproj.CopyComplete
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\obj\Debug\DelsotParser.exe
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\obj\Debug\DelsotParser.pdb
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew\source\repos\DelsotParser\DelsotParser\obj\Debug\DelsotParser.csprojAssemblyReference.cache
